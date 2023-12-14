@@ -34,5 +34,3 @@ def Email(E):
     return " Email validate ✅"
   else :
      return " Email not validated ❌"
-E=input("Type your email: ")
-print(Email(E))
